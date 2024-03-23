@@ -7,7 +7,7 @@ created on Wed Mar 20 16:40:02 2024
 Scope:
 
 An application to determinate principle stresses of stress tensor in 3D.
-Different two pethod are used: pure Python with math library and Python with NumPy library.
+Different two methods are used: pure Python with math library and Python with NumPy library.
 
 Use:
 
